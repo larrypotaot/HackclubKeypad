@@ -8,4 +8,9 @@ Features
 * LED backlights
 * Hotswap
 * Bottom Mounted
-* 
+
+
+Materials Needed
+* Solder Iron
+* 3.5mm standoffs
+* EVA foam
