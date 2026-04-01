@@ -1,45 +1,26 @@
-# HackclubKeypad
-Addition to 60% keyboard including F row and arrow keys
+# 60% Keyboard Addon For Gaming and Other
+* A roughly 3x6 layout for F row and arrow keys, alongside a rotary encoder for fun. It is hotswappable and contains LEDs for each key
+* I made this to have a dedicated F row and arrow keys for my 60% keyboard since many games require them and don't work with FN shortcuts.
+* Uses QMK software
+* *I need a soldering iron please :D
 
-Features
-* F row
-* Arrow Keys
-* Rotary Switch
-* LED backlights
-* Hotswap
-* Bottom Mounted
+<img width="891" height="772" alt="image" src="https://github.com/user-attachments/assets/7d129a6f-4f2d-4fad-b77a-cb9b83570e07" />
+
+# PCB
+<img width="472" height="797" alt="image" src="https://github.com/user-attachments/assets/6463076c-db37-40a4-aa0d-9ffef5d9188f" />
+<img width="453" height="852" alt="image" src="https://github.com/user-attachments/assets/97419e7f-f52b-43d9-b2c9-f13f4b1d66fe" />
+
+Schematic
+<img width="1234" height="717" alt="image" src="https://github.com/user-attachments/assets/c05eea5b-d843-4dce-bccf-8448cc70ea8e" />
 
 
-Materials Needed
-* Solder Iron
-* 3.5mm standoffs
-* EVA foam
+
 
 Layout: https://www.keyboard-layout-editor.com/#/gists/ed5083c6de0b27ba4e196096e7faea45
 
 
-YOUR README.md FILE CONTAINS THE FOLLOWING:
 
-A DESCRIPTION/EXPLANATION OF YOUR PROJECT
-A short description of what your project is
-A couple sentences on how to use your project!
-A couple sentences on why you made the project
-
-PICTURES OF YOUR PROJECT
-A screenshot of a full 3D model with your project
-A screenshot of your PCB, if you have one
-A wiring diagram, if you're doing any wiring that isn't on a PCB
-A BOM in table format at the end of the README, with links
-YOUR PROJECT DESIGN IS FULLY COMPLETE:
-
-It is an original, customized design by you, and is not a direct copy of any guide!
-It has a complete CAD assembly, with all components (including electronics!)
-You have firmware present, even if it's untested
-You have sanity checked your design with someone else!
-YOUR GITHUB REPOSITORY CONTAINS ALL OF YOUR PROJECT FILES:
-
-a BOM, in CSV format in the root directory, WITH LINKS
-the source files for your PCB, if you have one (.kicad_pro, .kicad_sch, gerbers.zip, etc)
-A .STEP file of your project's 3D CAD model as well as the source design file format as well - .f3d, .FCStd, etc; for OnShape, add a public link to your README)
-ANY other files that are part of your project (firmware, libraries, references, etc)
-You have everything easily readable and organized into folders.
+#BOM
+* Solder Iron
+* 3.5mm standoffs
+* EVA foam
