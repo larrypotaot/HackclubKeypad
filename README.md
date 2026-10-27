@@ -1,8 +1,6 @@
-# 60% Keyboard Addon For Gaming and Other
-* A roughly 3x6 layout for F row and arrow keys, alongside a rotary encoder for fun. It is hotswappable and contains LEDs for each key
-* I made this to have a dedicated F row and arrow keys for my 60% keyboard since many games require them and don't work with FN shortcuts.
+# 60% Keyboard Addon
+* A roughly 3x6 layout for F row and arrow keys, alongside an audio knob. It is hot-swappable for cherry-mx switches.
 * Uses QMK software
-* *I need a soldering iron please :D
 
 <img width="891" height="772" alt="image" src="https://github.com/user-attachments/assets/7d129a6f-4f2d-4fad-b77a-cb9b83570e07" />
 
